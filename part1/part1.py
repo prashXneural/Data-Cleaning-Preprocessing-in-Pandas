@@ -56,4 +56,4 @@ print(drop_col)
 drop_dup=df.drop_duplicates()
 print(drop_dup)
 #checks the values row wise if same value is occured ,it
-# deleted the whole row
+# deletes the whole row
