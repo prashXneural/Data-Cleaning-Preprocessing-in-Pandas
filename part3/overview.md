@@ -1,0 +1,3 @@
+In this section we will learn about detecting and remvoving duplicates.
+
+let's start our topic...
