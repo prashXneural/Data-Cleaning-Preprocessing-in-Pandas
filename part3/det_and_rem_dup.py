@@ -14,7 +14,6 @@ employees = {
                     2019, 2021, 2018, 2018, 2020]  # Repeated years
 }
 
-import pandas as pd
 df = pd.DataFrame(employees)
 print(df)
 
